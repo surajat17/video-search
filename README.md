@@ -14,4 +14,4 @@ You will also see any lint errors in the console.
 
 ### `youtube-api`
 
-In this app i have youtube-api to get the videos from their server.
+In this app i have used youtube-api to get the videos from their server.
